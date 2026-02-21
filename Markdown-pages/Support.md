@@ -8,11 +8,9 @@ The best way to financially support Palestine is by donating directly to one of 
 
 **Donate to associations acting in Palestine**
 
-- [Doctors Without Borders](https://donate.doctorswithoutborders.org/secure/rr-donate-monthly-web) : Provides medical help to Palestinians.
 - [Palestine Red Crescent Society](https://www.palestinercs.org/en/Donation) : Provides medical help to Palestinians.
-- [PCRF - Palestine Children's Relief Fund](https://pcrf1.app.neoncrm.com/forms/gaza-recovery) : Provides protection for Palestinian children.
 - [HEAL Palestine](https://www.healpalestine.org/donate/) : Provides medical help to Palestinian children.
-- [Alkhidmat](https://alkhidmat.org/donate) : Provides food and medical help to Palestinians.
+- [PCRF - Palestine Children's Relief Fund](https://pcrf1.app.neoncrm.com/forms/gaza-recovery) : Provides protection for Palestinian children.
 - [UNRWA - United Nations Relief and Works](https://donate.unrwa.org/-landing-page/en_EN) : Provides food and cash assistance to Palestinians.
 
 **Other way to support**
